@@ -66,6 +66,7 @@ Cybersecurity tools should only be used against systems and networks for which p
 ## 🖊️ **Author**
 
 Tishayna McFarlane
+
 Cybersecurity Trainee B084
 
 LinkedIn: https://www.linkedin.com/in/tishayna-mcfarlane-3417107b/
