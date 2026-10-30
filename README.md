@@ -1,25 +1,68 @@
-# WK1 PM1 Cybersecurity Lab Setup
+
+# 🔐 WK1 PM1 Cybersecurity Lab Setup
 
 ## Overview
+
 This repository documents the WK1 PM1 cybersecurity lab setup completed using VirtualBox and Kali Linux.
 
-The lab was created as a virtual environment for cybersecurity testing and penetration-testing practice.
+The lab provides a controlled virtual environment for cybersecurity practice, network configuration, connectivity testing, and security activities.
 
-## Lab Activities
+## 📋 Lab Setup Instructions
+
+Follow the complete step-by-step lab documentation below to understand how the environment was configured.
+
+**[➡️ View Complete Lab Setup Instructions](documentation/lab-setup.md)**
+
+The guide covers:
+
+- Lab objectives and configuration
+- VirtualBox installation
+- NAT Network configuration
+- Kali Linux import and setup
+- Network configuration and verification
+- Virtual machine snapshot creation
+- Security and ethical considerations
+
+## 🧪 Lab Activities
+
 - Created and configured a virtual lab environment in VirtualBox.
-- Set up a NAT network.
-- Installed Kali Linux.
-- Configured and tested network connectivity.
-- Verified that the network connection was working.
-- Captured screenshots documenting the lab setup and testing.
+- Set up a NAT Network.
+- Installed and configured Kali Linux.
+- Configured network connectivity.
+- Verified network configuration and connectivity.
+- Captured screenshots documenting the lab setup.
 
-## Evidence
+## 📂 Evidence
+
 - [WK1 Lab Report (PDF)](documentation/Lab%20WK1.pdf)
-- [WK1 Screenshots](screenshots/)
+- [Lab Setup Instructions](documentation/lab-setup.md)
+- [Lab Screenshots](screenshots/)
 
-The screenshots folder contains the supporting evidence captured during the lab.
+## 📁 Repository Structure
 
-## Repository Structure
-- `documentation/` — WK1 lab report and supporting documentation.
-- `screenshots/` — screenshots documenting the lab setup and network tests.
-- `README.md` — project overview and evidence navigation.
+```text
+.
+├── documentation/
+│   ├── Lab WK1.pdf
+│   └── lab-setup.md
+├── screenshots/
+└── README.md
+```
+
+## 🎯 Lab Objectives
+
+- Configure a virtual cybersecurity environment.
+- Understand virtual networking and NAT.
+- Configure Kali Linux network connectivity.
+- Verify network settings and DNS resolution.
+- Document the lab setup and supporting evidence.
+
+## 🔒 Security and Ethical Considerations
+
+This environment is intended for authorized cybersecurity learning and testing.
+
+Cybersecurity tools should only be used against systems and networks for which permission has been granted.
+
+## Conclusion
+
+This repository documents the lab configuration, setup procedure, and supporting evidence for the WK1 PM1 Cybersecurity Lab.
