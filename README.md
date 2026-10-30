@@ -14,7 +14,7 @@ The lab was created as a virtual environment for cybersecurity testing and penet
 - Captured screenshots documenting the lab setup and testing.
 
 ## Evidence
-- [WK1 Lab Report](documentation/Lab%20WK1.docx)
+- [WK1 Lab Report (PDF)](documentation/Lab%20WK1.pdf)
 - [WK1 Screenshots](screenshots/)
 
 The screenshots folder contains the supporting evidence captured during the lab.
